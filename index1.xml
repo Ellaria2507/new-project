@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <movie>
+        <name>Пацаны</name>
+        <director>Эрик Крипке</director>
+        <genre>action</genre>
+        <date>2019</date>
+        <seasons>3</seasons>
+        <actors>Карл Урбан, Энтони Старр</actors>
+    </movie>
+    <movie>
+        <name>Во все тяжкие</name>
+        <director>Винсом Гиллиганом</director>
+        <genre>триллер</genre>
+        <date>2008</date>
+        <seasons>5</seasons>
+        <actors>Брайан Крэнстон, Аарон Пол</actors>
+    </movie>
+    <movie>
+        <name>Йеллоустоун</name>
+        <director>Тейлор Шеридан</director>
+        <genre>вестерн</genre>
+        <date>2018</date>
+        <seasons>5</seasons>
+        <actors>Кевин Костнер, Уэс Бентли</actors>
+    </movie>
+    <movie>
+        <name>Настоящий детектив</name>
+        <director>Ник Пиццолатто</director>
+        <genre>детектив</genre>
+        <date>2014</date>
+        <seasons>3</seasons>
+        <actors>Мэттью МакКонахи, Вуди Харрельсон</actors>
+    </movie>
+    <movie>
+        <name>Чёрное зеркало</name>
+        <director>Джоди Фостер</director>
+        <genre> фантастика</genre>
+        <date>2011</date>
+        <seasons>6</seasons>
+        <actors>Макс Рихтер, Джефф Бэрроу</actors>
+    </movie>
+</catalog>
